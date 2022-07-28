@@ -1,0 +1,3 @@
+open package.json and change build for it ---> "build": "CI= react-scripts build". this work for me
+or
+under build settings use CI = npm run build instead of npm run build
